@@ -1,0 +1,12 @@
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ccc
+  description: ccc
+  labels:
+    stage: prod
+    platform-engineer.cloud/creator: backstage-template
+spec:
+  team: team1

@@ -1,0 +1,12 @@
+# dummy
+prod:
+  description: ccc
+  os: fedora-cloud-base
+  disk: 10Gi
+  cores: 1
+  memory: 4Gi
+  initpwd: admin
+  application_id: ccc
+  team: team1
+ # running: 
+  environment: prod
