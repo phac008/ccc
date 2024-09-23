@@ -16,7 +16,7 @@ metadata:
     backstage.io/kubernetes-id: ccc
     kubecost.com/deployment-name: ccc
     argocd/app-name: ccc-prod
-    backstage.io/kubernetes-label-selector: 'app.kubernetes.io/instance=ccc'
+    backstage.io/kubernetes-label-selector: 'vm.kubevirt.io/domain=ccc'
     #argocd/app-namespace: team1-ccc
     backstage.io/kubernetes-namespace: prod-demo-kubevirt
     kubevirt-manager: "https://kubevirt-manager-metalstack.platform-engineer.cloud/"
