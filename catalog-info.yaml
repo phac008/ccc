@@ -15,7 +15,7 @@ metadata:
     github.com/project-slug: phac008/ccc
     backstage.io/kubernetes-id: ccc
     kubecost.com/deployment-name: ccc
-    argocd/app-name: ccc-prod
+    argocd/app-name: ccc
     backstage.io/kubernetes-label-selector: 'vm.kubevirt.io/domain=ccc'
     argocd/app-namespace: team1-ccc
     backstage.io/kubernetes-namespace: team1-ccc
