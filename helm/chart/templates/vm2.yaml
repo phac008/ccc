@@ -6,7 +6,7 @@ metadata:
   annotations:
     description: {{ $values.description }}
   name: {{ $values.application_id }}2
-  namespace: {{ $values.team }}-{{ $values.application_id }}2
+  namespace: {{ $values.team }}-{{ $values.application_id }}
   labels:
     backstage.io/kubernetes-id: {{ $values.application_id }}2
     app: {{ $values.application_id }}2
